@@ -1,7 +1,7 @@
 # Netflix Clone 🎥
 
 ## Preview Link
-- [Netflix Project](https://netflix-bymandy.netlify.app/)
+- [Netflix Project](https://netfli-x-bymandy.netlify.app/)
 
 ## Tech/Framework Used
 * HTML
